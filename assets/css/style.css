@@ -196,7 +196,8 @@
   
   footer .footer p {
     font-weight: 500;
-    font-size: 22px;
+    font-size: 12px;
+    margin-top: 5px;
   }
   
   /* tablet */
@@ -269,6 +270,7 @@
     }
   
   }
+
   
   /* Desktop */
   @media (min-width: 992px) {
